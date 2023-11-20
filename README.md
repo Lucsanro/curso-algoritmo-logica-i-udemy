@@ -1,2 +1,3 @@
 # curso-algoritmo-logica-i-udemy
-Alguns aprendizados do Curso  Algoritmos e Lógica I da Udemy, ministrado por Cleison Ferreira de Melo.
+
+Curso com conceitos de lógica, portugol, javascript, github além de realização de desafios no HackerRank.
